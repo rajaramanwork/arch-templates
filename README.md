@@ -19,3 +19,5 @@ Open the generated `.drawio` in VS Code with the Draw.io Integration extension (
 | `.github/prompts/*.prompt.md` | `/new-aws-diagram`, `/review-aws-diagram` |
 
 Add a shape: render-test it in draw.io, then add a row to the catalog. Add a template: drop a `.drawio` in `templates/` and list it in SKILL.md step 1.
+
+test
